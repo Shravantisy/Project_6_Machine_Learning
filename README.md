@@ -10,16 +10,17 @@ You work for a consultancy specialising in real estate: your clients include dev
 
 For each house, it also contains around 80 different features, such as the area, the state of the property, whether it has a backyard or not, etc.
 
-The project will be divided into two major phases:
+## The project will be divided into two major phases:
 
-## 1. Create a model to predict whether a house is expensive or not. 
+1. Create a model to predict whether a house is expensive or not (Classification).
 
-## 2. Create a model to predict the exact price of a house.
+2. Create a model to predict the exact price of a house (Regression).
 
-## Summary of work done so far:
+### Summary of work done so far:
 
-#### 1. In the first phase, the model you build will have a categorical target: “Expensive” and “Not expensive”. Whenever a ML task involves a categorical target variable, it is called a classification task.
-#### 2. In the second phase of the project, the target variable will be numerical (the exact prices of the houses in dollars): you will be dealing with a regression task.
+1. In the first phase, the model you build will have a categorical target: “Expensive” and “Not expensive”. Whenever a ML task involves a categorical target variable, it is called a classification task.
+
+2. In the second phase of the project, the target variable will be numerical (the exact prices of the houses in dollars): you will be dealing with a regression task.
 
 
 ### Data Collection
@@ -35,7 +36,7 @@ Data from Kaggle Housing Data
 3. Predict Traget and split data into Train-test 
 
 ### working on Categorical and Numerical columns
-#### Encoding - "Automated" approach (Using Pipelines)
+(Encoding - "Automated" approach (Using Pipelines))
 
 1. Selected the numerical columns and fill Nan values by Mean
 
@@ -55,7 +56,7 @@ Data from Kaggle Housing Data
 
 Using ColumnTransformer a pipeline with 2 branches
 
-### full_pipeline
+### Full_pipeline
 
 1. Creating the the pipeline (preprocessor + model)
 
