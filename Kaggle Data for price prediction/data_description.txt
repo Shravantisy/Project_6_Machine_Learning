@@ -431,7 +431,7 @@ GarageFinish: Interior finish of the garage
 		
 GarageCars: Size of garage in car capacity
 
-GarageArea: Size of garage in square feet
+GarageArea: Size of garage in square feet 
 
 GarageQual: Garage quality
 
