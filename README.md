@@ -1,4 +1,4 @@
-# project_6_Machine_Learning
+# Project_6_Machine_Learning
 All about "Supervised Machine Learning" predicting housing prices
 
 Main code files for this project are 
