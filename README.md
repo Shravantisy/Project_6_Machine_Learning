@@ -63,7 +63,8 @@ Using ColumnTransformer a pipeline with 2 branches
 2. Predict the target
 
 
-
+### There is one anaother small project for Mashroom competition 
+Folder name is "Mashroom competition"
 
 
 
