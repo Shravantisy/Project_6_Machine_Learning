@@ -36,7 +36,7 @@ Data from Kaggle Housing Data
 3. Predict Traget and split data into Train-test 
 
 ### working on Categorical and Numerical columns
-(Encoding - "Automated" approach (Using Pipelines))
+(Encoding - "Automated" approach (Using Pipeline))
 
 1. Selected the numerical columns and fill Nan values by Mean
 
